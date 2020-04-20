@@ -1,3 +1,7 @@
+## This repo has been migrated to https://github.com/WeileiZeng/itpp-full-Docker-Image and https://hub.docker.com/repository/docker/weileizeng/itpp-full
+
+## Stop updating, Apr 20, 2020
+
 
 ### Dockerfile structure
 - [x] set up base image with gcc
