@@ -1,1 +1,1 @@
-FROM weileizeng/itpp:version0.3
+FROM weileizeng/itpp-light:version1.0

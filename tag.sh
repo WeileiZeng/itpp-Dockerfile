@@ -1,6 +1,6 @@
 
-#docker tag itpp weileizeng/itpp:version0.3
-#docker push weileizeng/itpp:version0.3
+docker tag itpp weileizeng/itpp-light:version1.0
+docker push weileizeng/itpp-light:version1.0
 
 
 
